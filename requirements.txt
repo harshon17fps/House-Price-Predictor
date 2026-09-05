@@ -1,0 +1,13 @@
+# Core data stack
+pandas==3.0.5
+numpy==2.5.2
+
+# Machine learning
+scikit-learn==1.9.0
+
+# Visualisation
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Notebook environment (optional - only needed for notebooks/)
+notebook==7.6.2
