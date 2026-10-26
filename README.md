@@ -1,11 +1,6 @@
 
 # House Price Predictor
 
-A Linear Regression model that predicts median house values in California from
-census block-group features, built with scikit-learn. The project covers the full
-supervised-learning workflow: data loading, an 80/20 train-test split, model
-fitting, evaluation on unseen data, and diagnostic visualisation.
-
 ---
 
 ## Project Overview
