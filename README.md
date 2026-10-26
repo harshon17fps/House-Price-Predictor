@@ -1,8 +1,4 @@
 
-# House Price Predictor
-
----
-
 ## Project Overview
 
 The goal is to establish an honest, reproducible **baseline** for a regression
